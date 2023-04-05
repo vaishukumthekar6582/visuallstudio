@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\Opencartproject\Opencartproject\obj\Debug\Opencartproject.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Opencartproject\Opencartproject\obj\Debug\Opencartproject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\Opencartproject\Opencartproject\obj\Debug\Opencartproject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Opencartproject\Opencartproject\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Administrator\source\repos\Opencartproject\Opencartproject\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Administrator\source\repos\Opencartproject\Opencartproject\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Administrator\source\repos\Opencartproject\Opencartproject\bin\Debug\Opencartproject.exe.config
+C:\Users\Administrator\source\repos\Opencartproject\Opencartproject\bin\Debug\Opencartproject.exe
+C:\Users\Administrator\source\repos\Opencartproject\Opencartproject\bin\Debug\Opencartproject.pdb
+C:\Users\Administrator\source\repos\Opencartproject\Opencartproject\bin\Debug\WebDriver.dll
+C:\Users\Administrator\source\repos\Opencartproject\Opencartproject\obj\Debug\Opencartproject.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Opencartproject\Opencartproject\obj\Debug\Opencartproject.exe
+C:\Users\Administrator\source\repos\Opencartproject\Opencartproject\obj\Debug\Opencartproject.pdb

@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\opencartreg\opencartreg\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Administrator\source\repos\opencartreg\opencartreg\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Administrator\source\repos\opencartreg\opencartreg\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Administrator\source\repos\opencartreg\opencartreg\bin\Debug\opencartreg.exe.config
+C:\Users\Administrator\source\repos\opencartreg\opencartreg\bin\Debug\opencartreg.exe
+C:\Users\Administrator\source\repos\opencartreg\opencartreg\bin\Debug\opencartreg.pdb
+C:\Users\Administrator\source\repos\opencartreg\opencartreg\bin\Debug\WebDriver.dll
+C:\Users\Administrator\source\repos\opencartreg\opencartreg\obj\Debug\opencartreg.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\opencartreg\opencartreg\obj\Debug\opencartreg.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\opencartreg\opencartreg\obj\Debug\opencartreg.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\opencartreg\opencartreg\obj\Debug\opencartreg.csproj.CopyComplete
+C:\Users\Administrator\source\repos\opencartreg\opencartreg\obj\Debug\opencartreg.exe
+C:\Users\Administrator\source\repos\opencartreg\opencartreg\obj\Debug\opencartreg.pdb

@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\opencart\opencart\bin\Debug\net6.0\opencart.exe
+C:\Users\Administrator\source\repos\opencart\opencart\bin\Debug\net6.0\opencart.deps.json
+C:\Users\Administrator\source\repos\opencart\opencart\bin\Debug\net6.0\opencart.runtimeconfig.json
+C:\Users\Administrator\source\repos\opencart\opencart\bin\Debug\net6.0\opencart.dll
+C:\Users\Administrator\source\repos\opencart\opencart\bin\Debug\net6.0\opencart.pdb
+C:\Users\Administrator\source\repos\opencart\opencart\obj\Debug\net6.0\opencart.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\opencart\opencart\obj\Debug\net6.0\opencart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\opencart\opencart\obj\Debug\net6.0\opencart.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\opencart\opencart\obj\Debug\net6.0\opencart.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\opencart\opencart\obj\Debug\net6.0\opencart.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\opencart\opencart\obj\Debug\net6.0\opencart.dll
+C:\Users\Administrator\source\repos\opencart\opencart\obj\Debug\net6.0\refint\opencart.dll
+C:\Users\Administrator\source\repos\opencart\opencart\obj\Debug\net6.0\opencart.pdb
+C:\Users\Administrator\source\repos\opencart\opencart\obj\Debug\net6.0\opencart.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\opencart\opencart\obj\Debug\net6.0\ref\opencart.dll
